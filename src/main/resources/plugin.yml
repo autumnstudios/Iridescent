@@ -2,3 +2,6 @@ name: Iridescent
 version: '${project.version}'
 main: com.autumnstudios.libraries.iridescent.Iridescent
 api-version: 1.19
+
+commands:
+  circle:
